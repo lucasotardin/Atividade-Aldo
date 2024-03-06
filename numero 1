@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ellie Thompson - Full Stack Developer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Ellie Thompson</h1>
+        <h2>Full Stack Developer</h2>
+    </header>
+    <main>
+        <section class="contato">
+            <h3>Contato</h3>
+            <ul>
+                <li><i class="fas fa-phone"></i> +1-555-559-5559</li>
+                <li><i class="fas fa-envelope"></i> xxxxxx@gmail.com</li>
+                <li><i class="fas fa-globe"></i> github.io/xoxxx</li>
+                <li><i class="fas fa-map-marker-alt"></i> San Fransisco, CA</li>
+            </ul>
+        </section>
+        <section class="resumo">
+            <h3>Resumo</h3>
+            <p>Desenvolvedora Full Stack com mais de 10 anos de experiência em Java/15, Angular, Vue, React, Python, NumPy, Scipy e Scikit-learn. Liderei o desenvolvimento de um projeto de pesquisa de $500 mil que foi considerado um "padrão ouro" pelo cliente e dupliquei a receita do cliente após ajustar os algoritmos baseados em IA/ML. Tenho bastante conhecimento com metodologias de RH.</p>
+        </section>
+        <section class="experiencia">
+            <h3>Experiência</h3>
+            <h4>Boyle (2018 - Presente)</h4>
+            <ul>
+                <li>Desenvolvedora Full Stack Sênior</li>
+                <li>Trabalho como desenvolvedora full-stack, responsável por construir, implantar e manter aplicações web internas.</li>
+                <li>Contratei, treinei e liderei uma equipe Agile de 7 desenvolvedores full-stack.</li>
+                <li>Desenvolvei a arquitetura de banco de dados indexado usando procedimentos e triggers SQL para 10 diferentes aplicações.</li>
+                <li>Trabalhei com Core Java para desenvolver soluções automatizadas para incluir interfaces web usando HTML, CSS, JavaScript e Web services.</li>
+                <li>Trabalhei com um comitê de 6 membros para organizar atividades divertidas para os funcionários.</li>
+            </ul>
+            <h4>Lauzon (2013 - 2018)</h4>
+            <ul>
+                <li>Desenvolvedora Full Stack</li>
+                <li>Contratei, treinei e liderei uma equipe Agile de 7 desenvolvedores full-stack.</li>
+                <li>Criei e mantive simultaneamente trabalhos agendados no SQL Server para manutenção de espaço e backups diários de bancos de dados do sistema e do usuário para 10 clientes.</li>
+                <li>Aumentei a receita da empresa em 30% em 2 meses após desenvolver e implementar a lógica de negócios para mais de 20 recursos.</li>
+                <li>Desenhei e desenvolvi o design da UI para mais de 15 clientes usando CSS, HTML, ASPNET, Vue e React; websites com pontuação acima de 85 no Lighthouse.</li>
+            </ul>
+        </section>
+        <section class="educacao">
+            <h3>Educação</h3>
+            <h4>Mestrado em Ciência da Computação - Universidade de Stanford (2008 - 2009)</h4>
+        </section>
+        <section class="habilidades">
+            <h3>Habilidades</h3>
+            <ul>
+                <li>**Client-Side:** HTML, CSS, JavaScript, Angular, React, Vue, Redux, TypeScript, Backbone, Bootstrap</li>
+                <li>**Server-side:** Python, NumPy, SciPy, Scikit-Learn, Keras, TensorFlow, MySQL, NodeJS, Redis, AWS, MongoDB, Spark</li>
+                <li>**Desenvolvimento e Operações:** JUnit, NUnit, PyUnit, TestCafe, Mocha, Jest, Scrum, Agile, Git, Azure DevOps</li>
+            </ul>
+        </section>
+        <section class="trabalho-open-source">
+            <h3>Trabalho Open Source</h3>
+            <h4>OpenFlow based Firewall (08/2012 - 12/20
